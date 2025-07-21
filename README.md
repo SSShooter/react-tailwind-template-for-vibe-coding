@@ -2,6 +2,7 @@
 
 - latest react
 - latest tailwind
-- use vite for high build speed
+- vite for high build speed
+- zustand for less boilerplate
 
 you can also try branch `shadcn`
